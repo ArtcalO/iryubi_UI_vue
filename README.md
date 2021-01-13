@@ -1,4 +1,4 @@
-# kiosque_ui
+# booking_ui_vue
 
 ## Project setup
 ```
