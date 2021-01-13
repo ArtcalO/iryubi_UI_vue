@@ -1,6 +1,6 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
-import Slam from './views/Slam'
+import Vue from 'vue';
+import VueRouter from 'vue-router';
+import Slam from './views/Slam.vue';
 
 Vue.use(VueRouter)
 

@@ -23,7 +23,7 @@
 
 <script>
   import NavBar from '../components/Navbar'
-  import { getAPI } from '../axios-api'
+  import { baseAPI } from '../axios-api'
   import { mapState } from 'vuex'
   export default {
     name: 'Posts',

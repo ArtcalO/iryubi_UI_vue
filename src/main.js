@@ -1,10 +1,7 @@
-import Vue from 'vue'
-import App from './App.vue'
-import router from './router/index'
-import store from './store/index'
-import 'bootstrap/bootstrap.min.css';
-
-const eventsHub = new Vue()
+import Vue from 'vue';
+import App from './App.vue';
+import router from "./router";
+import store from "./store";
 
 new Vue({
   router,
